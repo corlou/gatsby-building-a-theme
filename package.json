@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "workspaces": [
+        "gatsby-theme-events",
+        "site"
+    ],
+    "dependencies": {
+        "eslint": "^6.6.0",
+        "prettier": "^1.19.1"
+    }
+}
